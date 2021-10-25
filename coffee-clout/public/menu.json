@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Bryggkaffe",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 39
+    },
+    {
+      "id": 2,
+      "title": "Irish coffee",
+      "desc": "Coffee, Irish whiskey, lashings of thick cream",
+      "price": 49
+    },
+    {
+      "id": 3,
+      "title": "Cappuccino",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 4,
+      "title": "Weiner Mélange",
+      "desc": "Espresso topped with steamed milk and whipped cream",
+      "price": 49
+    },
+    {
+      "id": 5,
+      "title": "Frappe",
+      "desc": "Iced coffee with foamed milk",
+      "price": 54
+    },
+    {
+      "id": 6,
+      "title": "Cortado",
+      "desc": "Espresso and steamed milk",
+      "price": 39
+    },
+    {
+      "id": 7,
+      "title": "Ca Phe Da",
+      "desc": "Brewed through filter, on ice, condensed milk",
+      "price": 40
+    }
+  ]
+}

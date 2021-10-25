@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "The Affogato",
+      "desc": "Double espresso on scoop of gelato",
+      "price": 39
+    },
+    {
+      "id": 2,
+      "title": "Caffè Doppio",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 3,
+      "title": "Cappuccino",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 4,
+      "title": "Latte Macchiato",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 5,
+      "title": "Yuanyang",
+      "desc": "Brewed coffee, black Ceylon tea, condensed milk, hot water",
+      "price": 54
+    },
+    {
+      "id": 6,
+      "title": "Cortado",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 39
+    },
+    {
+      "id": 7,
+      "title": "Irish Coffee",
+      "desc": "Hot coffee, whiskey, whipped cream and sugar",
+      "price": 40
+    }
+  ]
+}
